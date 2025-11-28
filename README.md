@@ -1,0 +1,1 @@
+# Plant-specific-fertilizer-and-soil-recommendation-system
