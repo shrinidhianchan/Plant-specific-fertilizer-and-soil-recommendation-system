@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --agri-dark: 85 42% 22%;
+  --agri-sage: 75 34% 35%;
+  --agri-light: 75 25% 60%;
+  --agri-gold: 38 65% 48%;
+  --agri-cream: 38 50% 91%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+}
